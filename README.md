@@ -145,9 +145,9 @@ npm start
 
 ## 🧑‍💻 Contributors
 
-* *Ratnakar* – Frontend & Project Lead
-* *Pavani* – Backend & Authentication
-* *Akash* – UI Design & Routing
+* *Yedukondalu* – Frontend & Project Lead
+* *Sai Sri* – Backend & Authentication
+* *Ruthika* – UI Design & Routing
 * *Krishna* – Database & API Integration
 
 ---
